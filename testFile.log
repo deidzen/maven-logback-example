@@ -1,0 +1,8 @@
+18:49:51.797 [main] INFO  by.issoft.filelogger.FileLogger - HEEEEEY
+18:49:51.801 [main] WARN  by.issoft.filelogger.FileLogger - Some stupid message
+18:49:51.801 [main] ERROR by.issoft.filelogger.FileLogger - Houston, we've got some problems!!!
+18:51:27.797 [main] TRACE by.issoft.filelogger.FileLogger - Hello World!
+18:51:27.801 [main] DEBUG by.issoft.filelogger.FileLogger - Java is cool
+18:51:27.801 [main] INFO  by.issoft.filelogger.FileLogger - HEEEEEY
+18:51:27.803 [main] WARN  by.issoft.filelogger.FileLogger - Some stupid message
+18:51:27.803 [main] ERROR by.issoft.filelogger.FileLogger - Houston, we've got some problems!!!
